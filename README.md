@@ -15,7 +15,7 @@ I actively hunt for vulnerabilities on bug bounty platforms and apply what I lea
 ## 🛠️ Skills & Tools
 
 **Vulnerability Testing**
-- SQLi, XSS, IDOR, SSRF, Command Injection, Broken Authentication
+- SQLi, XSS, SSRF, Command Injection, Broken Authentication
 - CSRF, CORS Misconfiguration, Path Traversal, Access Control Vulnerabilities
 - Information Disclosure, Business Logic Vulnerabilities, Race Conditions, API Testing
 
