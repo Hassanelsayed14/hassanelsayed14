@@ -50,4 +50,4 @@ I actively hunt for vulnerabilities on bug bounty platforms and apply what I lea
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Elsayed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassan-elsayed-5a7098275)
 
-
+[![Medium](https://img.shields.io/badge/Medium-Writeups-black?style=for-the-badge&logo=medium)](https://medium.com/@hassanelsayed30)
