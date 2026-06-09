@@ -15,18 +15,21 @@ I actively hunt for vulnerabilities on bug bounty platforms and apply what I lea
 ## 🛠️ Skills & Tools
 
 **Vulnerability Testing**
-- SQLi, XSS, SSRF, Command Injection, Broken Authentication
-- CSRF, CORS Misconfiguration, Path Traversal, Access Control Vulnerabilities
+- SQLi, XSS , Command Injection, Broken Authentication ,SSRF, SSTL ,SSL ,XSLT
+- CSRF, CORS Misconfiguration, Path Traversal, XXE , Access Control Vulnerabilities
 - Information Disclosure, Business Logic Vulnerabilities, Race Conditions, API Testing
 
-**Reconnaissance & OSINT**
-- Subfinder, HTTPX, GAU, Katana, ParamSpider, Whois, Dig, Hunter.how
+### Reconnaissance & OSINT
+Subfinder, Assetfinder, Amass, HTTPX, GAU, Katana, ParamSpider, Whois, Dig, DNSenum, Gobuster, FFUF, Hunter.how, crt.sh
 
-**Exploitation & Scanning**
-- Burp Suite, Dalfox, XSStrike, SQLMap, FFUF, Nuclei, Mantra
+### Security Testing & Scanning
+Burp Suite, Nuclei, Dalfox, XSStrike, SQLMap, Mantra
 
-**Fingerprinting**
-- Wappalyzer
+### Authentication Testing
+Hydra, Medusa, CUPP, Username Anarchy
+
+### Fingerprinting
+WhatWeb, Wappalyzer, WafW00F, Nikto
 
 ---
 
